@@ -1,0 +1,9 @@
+.msg {
+  display: none;
+}
+
+.invalid {
+  color: red;
+  display: block;
+}
+

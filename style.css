@@ -1,0 +1,18 @@
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+tr {
+  width: 50px;
+  height: 50px;
+}
+
+td {
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  background-color: #eeeeee;
+  text-align: center;
+  font-size: 2em;
+}
